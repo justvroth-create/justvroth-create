@@ -1,35 +1,26 @@
-<!-- =======================================================
-     KHUN VIRAKROTH // GITHUB PROFILE
-     aka CERTIFIED STEAV
-     
-     Edit anything marked REPLACE_ME.
-     ======================================================= -->
-
-<div align="center">
+<!--
+KHUN VIRAKROTH // GITHUB PROFILE
+aka CERTIFIED STEAV
+-->
 
 # ⚡ KHUN VIRAKROTH ⚡
 
 ### `CERTIFIED STEAV`
 
 ```text
-> SYSTEM ONLINE...
-> USER        : KHUN VIRAKROTH
-> ALIAS       : STEAV ROTH
-> LOCATION    : PHNOM PENH, CAMBODIA
-> MODE        : PROBABLY AUTOMATING SOMETHING
-> STATUS      : EAT → SLEEP → CODE → RIDE → REPEAT
+SYSTEM ONLINE...
+USER        : KHUN VIRAKROTH
+ALIAS       : STEAV ROTH
+LOCATION    : PHNOM PENH, CAMBODIA
+MODE        : PROBABLY AUTOMATING SOMETHING
+STATUS      : EAT → SLEEP → CODE → RIDE → REPEAT
 ```
 
 ### 🤖 RPA Specialist • 👥 HR & GA Executive • 💻 IT Specialist • 🧠 Digital / AI Specialist
 
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-justvroth--create-181717?style=for-the-badge&logo=github)](https://github.com/justvroth-create)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](REPLACE_ME_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black)](REPLACE_ME_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_ME_EMAIL)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/virakroth-khun-6b8453379/)
+[![Email](https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khunvirakroth@gmail.com)
 
 ---
 
@@ -62,24 +53,20 @@ class Steav:
     philosophy = "If I have to do it twice, I'm probably automating it."
 ```
 
-I like learning **how a system actually works**, understanding the process manually, connecting the inputs and outputs, and then figuring out what parts can be automated.
+I like learning **how a system actually works**, understanding the process manually, connecting the inputs and outputs, and then figuring out which parts can be automated.
 
-My interests go across software, infrastructure, automation, networking, AI and whatever random technical rabbit hole I fall into next.
+My interests span software, infrastructure, automation, networking, AI, and whatever random technical rabbit hole I fall into next.
 
 > **Certified Steav™**
 >
-> Not the best at everything.
-> Just dangerously curious about everything.
+> Not the best at everything.  
+> Just curious about everything.
 
 ---
 
 # 💼 What I Do
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 RPA Specialist
+## 🤖 RPA Specialist
 
 - Robotic Process Automation
 - Business Process Automation
@@ -92,29 +79,19 @@ My interests go across software, infrastructure, automation, networking, AI and 
 - Process Analysis
 - Python Automation
 
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 IT Specialist
+## 💻 IT Specialist
 
 - Networking
 - System Administration
 - Server Configuration
 - Windows Environments
-- Hardware / Software Troubleshooting
+- Hardware and Software Troubleshooting
 - SQL Databases
 - Infrastructure
 - Technical Support
 - System Analysis
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 👥 HR & GA Executive
+## 👥 HR & GA Executive
 
 - Business Process Improvement
 - Administrative Automation
@@ -125,11 +102,7 @@ My interests go across software, infrastructure, automation, networking, AI and 
 - Excel-based Business Systems
 - Power Platform
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Digital / AI Specialist
+## 🧠 Digital / AI Specialist
 
 - AI-assisted Workflows
 - AI Agents
@@ -140,37 +113,27 @@ My interests go across software, infrastructure, automation, networking, AI and 
 - AI Experimentation
 - Digital Transformation
 
-</td>
-</tr>
-</table>
-
 ---
 
 # 🧠 Tech Stack
 
-<div align="center">
-
-### Languages
+## Languages
 
 [![Languages](https://skillicons.dev/icons?i=py,cs,cpp,java,js,php,html,css&theme=dark)](https://skillicons.dev)
 
-### Development
+## Development
 
 [![Development](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,laravel,dotnet&theme=dark)](https://skillicons.dev)
 
-### Database & Systems
+## Database and Systems
 
 [![Systems](https://skillicons.dev/icons?i=mysql,sqlite,windows,linux&theme=dark)](https://skillicons.dev)
 
-</div>
-
-These icon groups are powered by [Skill Icons](https://github.com/tandpfun/skill-icons). 【1-b1872e】
+Icon groups powered by [Skill Icons](https://github.com/tandpfun/skill-icons).
 
 ---
 
 # ⚙️ Automation Arsenal
-
-<div align="center">
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
@@ -183,8 +146,6 @@ These icon groups are powered by [Skill Icons](https://github.com/tandpfun/skill
 ![Workflow Automation](https://img.shields.io/badge/Workflow-AUTOMATION-8A2BE2?style=for-the-badge)
 ![Macro Automation](https://img.shields.io/badge/Macro-AUTOMATION-00C853?style=for-the-badge)
 
-</div>
-
 ---
 
 # 🧬 Skill Matrix
@@ -193,31 +154,26 @@ These icon groups are powered by [Skill Icons](https://github.com/tandpfun/skill
 |---|---|
 | 🤖 **Automation** | RPA • Power Automate • Power Automate Desktop • Excel Automation • Word Automation • Macro Automation • Workflow Process Automation |
 | 💻 **Programming** | Python • C# • C++ • Java • JavaScript • PHP |
-| 🌐 **Web** | HTML • JavaScript • PHP • Web Development |
+| 🌐 **Web** | HTML • CSS • JavaScript • PHP • Web Development |
 | 🏗️ **Software** | Software Development • System Analysis • Application Design |
-| 🗄️ **Database** | SQL • SQLite • Database Design |
-| 🌐 **Infrastructure** | Networking • Windows • Servers • IT Support |
-| 🧠 **Digital / AI** | AI Tools • AI Agents • Digital Transformation • Intelligent Automation |
+| 🗄️ **Database** | SQL • SQLite • MySQL • Database Design |
+| 📡 **Infrastructure** | Networking • Windows • Linux • Servers • IT Support |
+| 🧠 **Digital and AI** | AI Tools • AI Agents • Digital Transformation • Intelligent Automation |
 
 ---
 
 # 🏫 Education
 
-<div align="center">
+## 🎓 National Technical Training Institute
 
-### 🎓 `REPLACE_ME_SCHOOL_NAME`
+**Bachelor's Degree**
 
-**REPLACE_ME_DEGREE / MAJOR**
+[![NTTI](https://img.shields.io/badge/NTTI-VIEW_SCHOOL-FFD700?style=for-the-badge&logo=googleclassroom&logoColor=black)](https://www.ntti.edu.kh/)
 
-[![School](https://img.shields.io/badge/University-VIEW_SCHOOL-FFD700?style=for-the-badge&logo=googleclassroom&logoColor=black)](REPLACE_ME_SCHOOL_URL)
+📍 Phnom Penh, Cambodia 🇰🇭  
+📅 2024 → Present
 
-📍 Phnom Penh, Cambodia 🇰🇭
-
-`REPLACE_ME_START_YEAR` → `REPLACE_ME_GRADUATION_YEAR`
-
-</div>
-
-### Things I've explored along the way
+## Things I've Explored Along the Way
 
 ```text
 NETWORKING ────────────────┐
@@ -235,22 +191,22 @@ AI ────────────────────────┘
 
 # 🏢 Professional Journey
 
-### 🤖 RPA Specialist
+## 🤖 RPA Specialist
 
-[![Company](https://img.shields.io/badge/Company-REPLACE_ME-00BFFF?style=for-the-badge)](REPLACE_ME_COMPANY_URL)
+[![Yusen Logistics Cambodia](https://img.shields.io/badge/Yusen_Logistics-CAMBODIA-00BFFF?style=for-the-badge)](https://www.yusen-logistics.com/kh_en/)
 
 ```text
 Manual Process
       ↓
-Understand it
+Understand It
       ↓
-Map it
+Map It
       ↓
-Break it into logic
+Break It into Logic
       ↓
-Automate it
+Automate It
       ↓
-Monitor it
+Monitor It
       ↓
 "Why is Power Automate angry again?"
 ```
@@ -270,32 +226,28 @@ Monitor it
 - 🌐 Web applications
 - 🔌 System integrations
 - 🏢 Internal business tools
-- 🧪 Random experimental shit that somehow becomes a project
+- 🧪 Random experimental stuff that somehow becomes a project
 
 ---
 
 # 👽 Ask Me About
 
-<div align="center">
-
-![Alien](https://img.shields.io/badge/👽_ALIENS-ASK_ME-39FF14?style=for-the-badge)
-![IT](https://img.shields.io/badge/Anything_IT-ASK_ME-00FFFF?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-LET'S_TALK-FF00FF?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-LET'S_TALK-007ACC?style=for-the-badge)
-
-</div>
+https://img.shields.io/badge/ALIENS-ASK_ME-39FF14?style=for-the-badge
+https://img.shields.io/badge/Anything_IT-ASK_ME-00FFFF?style=for-the-badge
+https://img.shields.io/badge/Automation-LET'S_TALK-FF00FF?style=for-the-badge
+https://img.shields.io/badge/Networking-LET'S_TALK-007ACC?style=for-the-badge
 
 ```text
-> Ask me about aliens.
-> Ask me about IT.
-> Ask me why I automated something that would've taken 5 minutes manually.
+Ask me about aliens.
+Ask me about anything related to IT.
+Ask me why I automated something that would've taken five minutes manually.
 ```
 
 ---
 
 # 🎧 Outside the Terminal
 
-When I'm not fighting workflows, writing code or wondering why something worked yesterday:
+When I'm not fighting workflows, writing code, or wondering why something worked yesterday:
 
 ```text
 🚶 LONG WALK
@@ -311,7 +263,7 @@ When I'm not fighting workflows, writing code or wondering why something worked 
 🔁 REPEAT
 ```
 
-### Hobbies
+## Hobbies
 
 - 🚶 Long walks
 - 🎧 Listening to music
@@ -323,31 +275,69 @@ When I'm not fighting workflows, writing code or wondering why something worked 
 - 🚶 + 🏍️ + 🍜 + 🎧 + 😴 **The Complete Steav Experience™**
 
 ---
+---
 
 # 📡 Connect With Me
 
-<div align="center">
+[![GitHub](https://)](https://github.com/justvroth-create)
 
-[![GitHub](https://img.shields.io/badge/GitHub-justvroth--create-181717?style=for-the-badge&logo=github)](https://github.com/justvroth-create)
+[![LinkedIn](https://)](https://www.linkedin.com/in/virakroth-khun-6b8453379/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-REPLACE_ME-0077B5?style=for-the-badge&logo=linkedin)](REPLACE_ME_LINKEDIN)
+[![NTTI](https://)](https://www.ntti.edu.kh/)
 
-[![School](https://img.shields.io/badge/University-REPLACE_ME-FFD700?style=for-the-badge)](REPLACE_ME_SCHOOL_URL)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-REPLACE_ME-00FFFF?style=for-the-badge)](REPLACE_ME_PORTFOLIO)
-
-[![Email](https://img.shields.io/badge/Email-REPLACE_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_ME_EMAIL)
-
-</div>
+[![Email](https://)](mailto:khunvirakroth@gmail.com)
 
 ---
 
 # 📊 GitHub Telemetry
 
-<div align="center">
+https://ghstats.dev/api/card?username=justvroth-create&theme=tokyonight
 
-<img height="170" src="https://ghstats.dev/api/card?username=justvroth-create&theme=tokyonight" />
+---
 
-</div>
+# 🛰️ Current Status
 
-The stats card is dynamic, so it can update as your public GitHub activity changes. GHStats specifically supports GitHub Profile README cards and a Tokyo Night theme. 
+```yaml
+user: Khun Virakroth
+alias: Steav Roth
+location: Phnom Penh, Cambodia
+
+roles:
+  - RPA Specialist
+  - HR and GA Executive
+  - IT Specialist
+  - Digital and AI Specialist
+
+current_mode:
+  - learn
+  - build
+  - automate
+  - break
+  - debug
+  - repeat
+
+fuel:
+  coffee: optional
+  water: "bro forgot again"
+  music: required
+  sleep: questionable
+
+objectives:
+  automation: ACTIVE
+  artificial_intelligence: ACTIVE
+  software_development: ACTIVE
+  networking: ACTIVE
+  aliens: CLASSIFIED
+
+final_status: CERTIFIED STEAV
+```
+
+---
+
+# ⚡ BUILD • BREAK • UNDERSTAND • AUTOMATE ⚡
+
+## Certified Steav™
+
+> *If I have to do it twice, I'm probably going to automate it.*
+
+https://komarev.com/ghpvc/?username=justvroth-create&color=00ffff&style=for-the-badge&label=PROFILE+VISITORS
