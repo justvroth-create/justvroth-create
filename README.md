@@ -334,6 +334,16 @@ final_status: CERTIFIED STEAV
 
 ---
 
+# 🤝 Acknowledgements
+
+To my **family**, thank you for always being behind me no matter what direction I decided to take.
+
+To every **HR team, manager, mentor, colleague, teacher, and friend** who saw potential in me and gave me a chance to learn, experiment, fail, improve, and try again, thank you.
+
+And to everyone who has been part of the journey beyond the projects, code, work, and school, thank you for the conversations, encouragement, laughs, long days, and occasionally very late nights.
+
+🌙
+
 # ⚡ BUILD • BREAK • UNDERSTAND • AUTOMATE ⚡
 
 ## Certified Steav™
